@@ -3,6 +3,7 @@
 # Zenbot - Forex Automatic Trading Algorithm
 <p>
 	<img src="https://img.shields.io/badge/-python-61DAFB?logo=python">
+	<img src="https://img.shields.io/github/last-commit/WeiTaKuan/zenbot_tading_algorithm">
 </p>
 
 <!-- ABOUT THE PROJECT -->
