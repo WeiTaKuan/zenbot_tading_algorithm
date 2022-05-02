@@ -1,3 +1,5 @@
+<img src="https://github.com/WeiTaKuan/zenbot_tading_algorithm/blob/main/Image/ZenBotLogo.png" width="100" height="100">
+
 # Zenbot - Forex Automatic Trading Algorithm
 <p>
 	<img src="https://img.shields.io/badge/-python-61DAFB?logo=python">
