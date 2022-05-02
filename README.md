@@ -1,4 +1,4 @@
-# MT5-AutoTrader
+# Zenbot - Forex Automatic Trading Algorithm
 <p>
 	<img src="https://img.shields.io/badge/-python-61DAFB?logo=python">
 </p>
@@ -13,6 +13,12 @@ This trading algorithm uses statistical analysis with over 20 years of historica
 ## Whats New 
 - Update ZenBot to 2.0 Version 
 - Use Random Forest Classifier to predict the position type
+
+<!-- Training Process -->
+## Machine Learning Training Process
+See here for the machine learning model training process
+
+[Zenbot Machine Learning Notebook](https://github.com/WeiTaKuan/zenbot_tading_algorithm/blob/main/Zenbot%20Machine%20Learning%20Process.ipynb)
 
 <!-- ZenBot Performance -->
 ## ZenBot Performance
